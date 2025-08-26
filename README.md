@@ -1,4 +1,4 @@
-# Mega Miyya (Mega Mind) - AI-Powered Code Review Tool
+# Mega Miyya (Mega Mind) - AI-Powered Code Reviewing Tool
 
 An intelligent code review tool that automatically analyzes pull requests using AI and provides detailed feedback directly on GitHub, similar to CodeRabbit.
 
